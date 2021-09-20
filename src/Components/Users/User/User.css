@@ -1,0 +1,25 @@
+.user{
+    background-color: blanchedalmond;
+    align-items: center;
+    margin: 15px;
+    padding: 10px;
+    border: 2px solid rgb(82, 22, 22);
+    border-radius: 20px;
+    width: 85%;
+    margin-left: 1rem;
+    box-shadow: 5px 5px 11px 1px rgba(0,0,0,0.67);
+}
+.user h2{
+    color: black;
+    background-color: blanchedalmond;
+}
+.user h4{
+    background-color: blanchedalmond;
+    color: black;
+    font-weight: 900;
+}
+.user img{
+    width: 200px;
+    padding: 20px;
+    border-radius: 10px;
+}

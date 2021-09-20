@@ -1,0 +1,17 @@
+*{
+    background-color: black;
+}
+.users-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+}
+.users-header{
+    text-align: center;
+}
+.users-header h1{
+    background-color: burlywood;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 5px; 
+}
